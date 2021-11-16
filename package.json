@@ -5,6 +5,10 @@
   "repository": "https://github.com/goldyukol/lection-rss-node-testing.git",
   "author": "Goldyukol <goldyukol12@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
   "dependencies": {
     "jest": "^27.3.1"
   }
