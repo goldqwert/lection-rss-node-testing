@@ -1,0 +1,11 @@
+{
+  "name": "lection-rss-node-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/goldyukol/lection-rss-node-testing.git",
+  "author": "Goldyukol <goldyukol12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
